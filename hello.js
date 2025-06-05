@@ -1,4 +1,4 @@
-console.log("hJello world")
+console.log("hello world")
 
 
 //variables

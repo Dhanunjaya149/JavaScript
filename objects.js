@@ -22,3 +22,6 @@ console.log(Oors)
 
 Oors.age=189
 console.log(Oors)
+
+delete Oors.isAlive
+console.log(Oors)
