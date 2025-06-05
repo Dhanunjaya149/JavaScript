@@ -1,16 +1,16 @@
  //This switch statement is used when you want to compare one value against many possible cases.
 
  //syntax
- switch(expression){
-   case value1:
-    //code block
-    break;
-    case value2:
-    //code block
-    break;
-    dafault:
-    //code block
- }
+//  switch(expression){
+//    case value1:
+//     //code block
+//     break;
+//     case value2:
+//     //code block
+//     break;
+//     dafault:
+//     //code block
+//  }
 
  let day =3;
 
@@ -27,4 +27,5 @@
     default:
         console.log("DayDay");
  }
+ 
  
